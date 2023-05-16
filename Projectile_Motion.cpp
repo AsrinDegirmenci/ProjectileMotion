@@ -1,9 +1,3 @@
-/*****
-   CTIS164 - Lab07
-   Projectile Motion
-*****
-   ver03: ship added
-*****/
 
 #include <GLUT/glut.h>
 #include <stdio.h>
